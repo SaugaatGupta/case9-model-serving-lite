@@ -10,7 +10,7 @@ pinned: false
 
 # case9-model-serving-lite
 
-**Live:** `https://huggingface.co/spaces/<YOUR_USERNAME>/case9-model-serving-lite`
+**Live:** `https://huggingface.co/spaces/SaugaatG25/case9-model-serving-lite`
 
 A small but production-shaped sentiment-analysis service: FastAPI + DistilBERT-SST2, structured JSON logs, SQLite event store, four drift signals, and a PR-gated retraining workflow.
 
